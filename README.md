@@ -60,7 +60,7 @@ Me gusta aprender constantemente y desarrollar proyectos que combinen **buen dis
 ## 📊 Estadísticas de GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Odpp7\&show_icons=true\&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oddp7\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Odpp7\&layout=compact\&theme=tokyonight)
 
 ---
 
