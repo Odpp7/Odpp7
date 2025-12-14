@@ -59,8 +59,8 @@ Me gusta aprender constantemente y desarrollar proyectos que combinen **buen dis
 
 ## 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO\&show_icons=true\&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO\&layout=compact\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Odpp7\&show_icons=true\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oddp7\&layout=compact\&theme=tokyonight)
 
 ---
 
@@ -74,4 +74,4 @@ Me gusta aprender constantemente y desarrollar proyectos que combinen **buen dis
 
 ✨ *Siempre abierto a aprender, mejorar y colaborar en nuevos proyectos.*
 
-![Profile Views](https://komarev.com/ghpvc/?username=TU_USUARIO\&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Odpp7\&color=blue)
