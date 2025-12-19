@@ -66,7 +66,7 @@ Me gusta aprender constantemente y desarrollar proyectos que combinen **buen dis
 
 ## 📫 Contacto
 
-* 🌐 Portafolio: [**(Mi portafolio)**](https://mi-portafolio-web-eight.vercel.app)
+* 🌐 Portafolio: [**(Portafolio Oscar Duque)**](https://mi-portafolio-web-eight.vercel.app)
 * 📧 Email: **oddpaz7@gmail.com**
 
 ---
