@@ -66,8 +66,7 @@ Me gusta aprender constantemente y desarrollar proyectos que combinen **buen dis
 
 ## 📫 Contacto
 
-* 🌐 Portafolio: **(próximamente / tu link aquí)**
-* 💼 LinkedIn: **(tu link aquí)**
+* 🌐 Portafolio: [**(próximamente / tu link aquí)**](https://mi-portafolio-web-eight.vercel.app)
 * 📧 Email: **oddpaz7@gmail.com**
 
 ---
